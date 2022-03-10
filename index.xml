@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>仰望·星空</title>
+        <link>https://ywxq.github.io/</link>
+        <description>Recent content on 仰望·星空</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ywxq.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>开篇</title>
+        <link>https://ywxq.github.io/p/zero/</link>
+        <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://ywxq.github.io/p/zero/</guid>
+        <description>&lt;img src="https://ywxq.github.io/p/zero/index.assets/0e99846cbc4040fd8c3ad9076be2fa51.png" alt="Featured image of post 开篇" /&gt;&lt;p&gt;热烈庆祝小博客上线成功~&lt;/p&gt;
+&lt;p&gt;放两张美女镇场子！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ywxq.github.io/p/zero/index.assets/wallhaven-rdwjj7.jpg&#34;
+	width=&#34;4096&#34;
+	height=&#34;2561&#34;
+	srcset=&#34;https://ywxq.github.io/p/zero/index.assets/wallhaven-rdwjj7_hu1b2fb3a1eb2b2773a0b55744592a6d99_1339245_480x0_resize_q75_box.jpg 480w, https://ywxq.github.io/p/zero/index.assets/wallhaven-rdwjj7_hu1b2fb3a1eb2b2773a0b55744592a6d99_1339245_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;zero&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;159&#34;
+		data-flex-basis=&#34;383px&#34;
+	
+&gt;
+&lt;img src=&#34;https://ywxq.github.io/p/zero/index.assets/wallhaven-rdej8j.jpg&#34;
+	width=&#34;5552&#34;
+	height=&#34;3190&#34;
+	srcset=&#34;https://ywxq.github.io/p/zero/index.assets/wallhaven-rdej8j_hucb5cbd906ceab2741411d90248dc76aa_2874311_480x0_resize_q75_box.jpg 480w, https://ywxq.github.io/p/zero/index.assets/wallhaven-rdej8j_hucb5cbd906ceab2741411d90248dc76aa_2874311_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;zero&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;174&#34;
+		data-flex-basis=&#34;417px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>目录</title>
+        <link>https://ywxq.github.io/archives/</link>
+        <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://ywxq.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://ywxq.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://ywxq.github.io/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
