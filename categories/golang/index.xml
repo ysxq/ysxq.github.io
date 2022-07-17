@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>golang on 仰望·星空</title>
+        <link>https://ywxq.github.io/categories/golang/</link>
+        <description>Recent content in golang on 仰望·星空</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Mon, 18 Jul 2022 05:55:05 +0800</lastBuildDate><atom:link href="https://ywxq.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>推荐：web_demo——优秀的 web 开发模板</title>
+        <link>https://ywxq.github.io/p/%E6%8E%A8%E8%8D%90web_demo%E4%BC%98%E7%A7%80%E7%9A%84-web-%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF/</link>
+        <pubDate>Mon, 18 Jul 2022 05:55:05 +0800</pubDate>
+        
+        <guid>https://ywxq.github.io/p/%E6%8E%A8%E8%8D%90web_demo%E4%BC%98%E7%A7%80%E7%9A%84-web-%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF/</guid>
+        <description>&lt;p&gt;web 端因为浏览器的方便和强大，在大部分情况，都优于客户端。&lt;/p&gt;
+&lt;p&gt;而且一个服务有 web 界面，那比单纯提供命令行工具要更专业，更容易上手，感觉也是趋势。&lt;/p&gt;
+&lt;p&gt;所以我想找一个 web 项目的开发模板，需要集成一些常见功能，比如后台启动，日志收集，通过配置文件修改配置等，然后我只需要修改路由部分，这样可以快速实现自己的项目。&lt;/p&gt;
+&lt;p&gt;经过我夜以继日的苦苦寻找，终于功夫不负有心人，我在码云上找到了一个完美符合我要求的仓库，哈哈。&lt;/p&gt;
+&lt;p&gt;项目地址：&lt;a class=&#34;link&#34; href=&#34;https://gitee.com/yishixingqi/web_demo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;web_demo: 一个基于 gin web 框架的简单开发模板 (gitee.com)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ywxq.github.io/p/%E6%8E%A8%E8%8D%90web_demo%E4%BC%98%E7%A7%80%E7%9A%84-web-%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF/index.assets/image-20220718061558423.png&#34;
+	width=&#34;2039&#34;
+	height=&#34;1361&#34;
+	srcset=&#34;https://ywxq.github.io/p/%E6%8E%A8%E8%8D%90web_demo%E4%BC%98%E7%A7%80%E7%9A%84-web-%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF/index.assets/image-20220718061558423_hu983442f4fe9084a433f09caf3dadfe3a_137811_480x0_resize_box_3.png 480w, https://ywxq.github.io/p/%E6%8E%A8%E8%8D%90web_demo%E4%BC%98%E7%A7%80%E7%9A%84-web-%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF/index.assets/image-20220718061558423_hu983442f4fe9084a433f09caf3dadfe3a_137811_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20220718061558423&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;359px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这个项目是 golang 编写的，golang 就不多说了，这玩意的项目部署是真的方便，而且作者已经帮忙集成了 rpm 打包功能，通过脚本可以轻松实现。&lt;/p&gt;
+&lt;p&gt;赞美作者！&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
